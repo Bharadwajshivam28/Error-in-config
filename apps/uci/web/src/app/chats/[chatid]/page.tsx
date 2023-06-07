@@ -13,7 +13,7 @@ import { useRouter } from 'next/navigation';
 import { AppContext } from '@/context';
 import { NextPage } from 'next';
 import { Suspense } from "react";
- import { ChatUiComponent } from '@/components';
+import { ChatUiComponent } from '@/components';
 
 
 const Chats: NextPage<{ params: { chatid: string } }> = ({ params }) => {
