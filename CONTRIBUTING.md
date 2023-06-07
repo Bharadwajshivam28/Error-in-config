@@ -1,6 +1,6 @@
 # Contributing
 
-## How do I... <a name="toc"></a>
+## Ho do I... <a name="toc"></a>
 
 * [Use This Guide](#introduction)?
 * Ask or Say Something? 🤔🐛😱
